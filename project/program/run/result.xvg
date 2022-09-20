@@ -1,0 +1,50 @@
+# This file was created Tue Sep 20 11:49:17 2022
+# Created by:
+#                      :-) GROMACS - gmx angle, 2021.3 (-:
+# 
+# Executable:   /usr/local/gromacs/bin/gmx
+# Data prefix:  /usr/local/gromacs
+# Working dir:  /home/michal/Documents/02_UJ_lab/nauka/python/project/program
+# Command line:
+#   gmx angle -type dihedral -n run/ndx.ndx -f input/sample_xtcs/data_set1_r/last_10ns_trun.xtc -od run/result.xvg
+# gmx angle is part of G R O M A C S:
+#
+# Gromacs Runs On Most of All Computer Systems
+#
+@    title "Dihedral Distribution: dih1"
+@    xaxis  label "Degrees"
+@    yaxis  label ""
+@TYPE xy
+@    subtitle "average angle: -124.928\So\N"
+      -140    0.000000
+      -139    0.000012
+      -138    0.000087
+      -137    0.000249
+      -136    0.000877
+      -135    0.002488
+      -134    0.005634
+      -133    0.012002
+      -132    0.022382
+      -131    0.036797
+      -130    0.054608
+      -129    0.070958
+      -128    0.079540
+      -127    0.083041
+      -126    0.083134
+      -125    0.083203
+      -124    0.083402
+      -123    0.084988
+      -122    0.080933
+      -121    0.071443
+      -120    0.056710
+      -119    0.039471
+      -118    0.024664
+      -117    0.012817
+      -116    0.006368
+      -115    0.002643
+      -114    0.001063
+      -113    0.000367
+      -112    0.000087
+      -111    0.000025
+      -110    0.000006
+      -109    0.000000

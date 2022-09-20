@@ -1,0 +1,4 @@
+input/sample_xtcs/data_org/last_10ns.xtc : OPLS_raw_0.0041
+input/sample_xtcs/data_Q1/last_10ns_trun.xtc : Q1_0.0004
+input/sample_xtcs/data_set1/last_10ns.xtc : set1_mine_0.0172
+input/sample_xtcs/data_set1_r/last_10ns_trun.xtc : set1_r20_11_13_14_0.0080

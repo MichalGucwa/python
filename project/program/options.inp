@@ -1,0 +1,6 @@
+input/sel_dihs.inp ;sel fihedrals input path
+29 ; n atoms in molecule
+800 ; n atoms in system
+input/xtcs.inp ; traj files
+input/triacetin_org.itp ; path itp only for purpose of getting info of dihedrals without specific parameters
+/usr/local/gromacs ;gmx_dir
